@@ -1,1 +1,11 @@
+title: Hunter
+author: Hong
+email: 123@456.com
+description: > # this means to ignore newlines until "baseurl:"
+  澳门首家线上赌博上线了，性感荷官，在线发牌
+# social links
+twitter_username: your-twitter-handle
+github_username:  your-github-handle
+
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-hacker
